@@ -1,0 +1,6 @@
+{
+  "name": "Multimodal Search",
+  "description": "Search for matches across text, images, and audio files using the Gemini Embedding 2 model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
